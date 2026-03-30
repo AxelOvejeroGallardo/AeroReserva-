@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AeroReserva-
 TrabajoPractico de Programacion II
 =======
@@ -36,5 +36,3 @@ El sistema persiste los datos manualmente usando `org.json` y utiliza Inyección
 * **Arquitectura:** Inyección de Dependencias (manual) y patrón `toJSON()` en entidades.
 
 ---
-
->>>>>>> 06734ca (First Commit)
